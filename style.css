@@ -29,7 +29,7 @@ body {
 }
 
 #title, #about {
-  transition: color ease 0.5s, font-family ease 0.5s;
+  transition: color ease 0.5s 0.3s, font-family ease 0.5s 0.3s;
 }
 
 
