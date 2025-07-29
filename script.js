@@ -12,8 +12,8 @@ toggle.addEventListener("click",() => {
         const darkThemeColor = `rgb(${47},${48},${48})`;
         document.body.style.backgroundColor = darkThemeColor;
 
-        title.style.fontFamily = 'Caesar Dressing';
-        about.style.fontFamily = 'Caesar Dressing';
+        title.style.fontFamily = 'Special Gothic Expanded One';
+        about.style.fontFamily = 'Special Gothic Expanded One';
 
         icon.innerHTML = sunIcon;
 
