@@ -25,11 +25,11 @@
     background: none;
 }
 body {
-  transition: background-color ease 0.5s;
+  transition: background-color ease 0.3s;
 }
 
 #title, #about {
-  transition: color ease 0.5s 0.3s, font-family ease 0.5s 0.3s;
+  transition: color ease 0.3s 0.1s, font-family ease 0.3s 0.1s;
 }
 
 
