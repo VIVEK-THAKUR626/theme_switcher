@@ -27,7 +27,7 @@
     align-self: center;
     margin: 1.5%;
 }
-#title{
+h1{
     margin-left: 35%;
     margin-top: 1%;
 }
@@ -40,8 +40,9 @@ body {
   transition: background-color ease 0.3s;
 }
 
-#title, #about {
+.about {
   transition: color ease 0.3s 0.1s, font-family ease 0.3s 0.1s;
+  font-family: 'Nunito';
 }
 
 
