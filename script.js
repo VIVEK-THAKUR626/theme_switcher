@@ -17,7 +17,7 @@ toggle.addEventListener("click",() => {
 
         icon.innerHTML = sunIcon;
 
-        const darkFontColor = `rgb(${169},${169},${169})`;
+        const darkFontColor = `rgb(${200},${200},${200})`;
         title.style.color = darkFontColor;
         about.style.color = darkFontColor;
 
